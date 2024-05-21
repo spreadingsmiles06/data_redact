@@ -13,14 +13,19 @@ import streamlit as st
 # genai.configure(api_key="AIzaSyDONU1LmKi9fVNEG9tsopZvRB0EcdKcfs8")
 
    # Get OpenAI API key from user
-gemini_api_key = st.text_input("Enter your Gemini API key:", type="password")
-if gemini_api_key:
-# Set the OpenAI API key
-    import os
-    os.environ["GEMINI_API_KEY"] = gemini_api_key
 #os.environ['GOOGLE_API_KEY'] = 'AIzaSyCNgcmnCCA81fPQWX_WL7Z786w-fOiankE'
-else:
-    st.warning("Please enter your Gemini API  tokey continue.")
+
+gemini_api_key = st.text_input("Enter your Gemini API key:", type="password")
+import os
+os.environ["GEMINI_API_KEY"] = gemini_api_key
+
+
+# if gemini_api_key:
+# # Set the OpenAI API key
+#     import os
+#     os.environ["GEMINI_API_KEY"] = gemini_api_key
+# else:
+#     st.warning("Please enter your Gemini API  tokey continue.")
 
 try:
 	llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro-latest")
