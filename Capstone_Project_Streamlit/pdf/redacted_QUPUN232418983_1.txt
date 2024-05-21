@@ -1,0 +1,275 @@
+: QUPUN232418983/1
+
+Vehicle Type
+
+: PART LOAD / SHARED 
+CONSIGNMENT 
+
+Date
+
+CFT
+
+Pay Mode
+
+: 100% payment before loading
+
+To,
+
+<URL>. <PERSON>/s
+
+: [REDACTED] 
+
+Name of Company
+
+: 
+
+Client GST No.
+
+: Unregistered
+
+GST Exempted 
+
+: Yes
+
+QUOTATION
+
+: 28 Jan 2024
+
+: 118.24
+
+ <IN_PAN> with carriage by Road Act,2007
+ Pan No.: <IN_PAN>
+
+GSTIN
+
+27AAFCA3559A1ZZ
+(<NRP>)
+
+Address
+
+: [REDACTED] 
+
+Movement Date
+
+: <DATE_TIME>
+
+TRANSPORTATION OF USED HOUSEHOLD GOODS FOR PERSONAL USE (GTA) <LOCATION>
+
+Dear Sir/Madam,
+We thank you for your valuable enquiry for transportation of used  household goods from [REDACTED], <LOCATION> to <LOCATION>, Gurgaon / Gurugram 
+We are pleased to quote our rates for the same as under:
+
+*
+
+Basic Freight
+
+Advance Amount Collected :
+
+₹ /-
+
+PARTICULARS
+
+GST exempted for an unregistered person and unregistered casual tax 
+payer, (as per notification no 32/2017-central Tax rate) otherwise extra 
+@ 12%
+
+AMOUNT
+
+₹ 18000.00
+
+Gross Freight
+
+₹ 18000.00
+
+0.00 % SGST
+
+0.00 % CGST
+
+0.00 % IGST
+
+₹ 0.00
+
+₹ 0.00
+
+₹ 0.00
+
+GRAND TOTAL ₹ 18000.00
+
+PAYMENT TERMS
+
+1. 10% advance payment is required to confirm the booking.
+2. 100% payment is required before loading of goods.
+3. Payments to made in favour of "Agarwal Packers and Movers Ltd" only.
+4. Payment option: NEFT/RTGS/IMPS/Credit Card/Debit Card.
+5. Cancellation Charges
+
+Account details for NEFT / RTGS / IMPS:
+
+Bank Name :
+
+Bank Branch :
+
+[REDACTED]
+
+[REDACTED]
+
+No. days left for packing
+
+<DATE_TIME> and above
+
+<DATE_TIME>
+
+Amount
+
+No Deduction
+
+10% of booking Amount
+
+Account Type :
+
+[REDACTED]
+
+Account No. :
+
+IFSC Code :
+
+[REDACTED] 
+
+[REDACTED] 
+
+GENERAL TERMS & <IN_PAN>
+
+* GSTIN details should be shared in advance, no changes will be made to final Invoice once generated from the system.
+* Quotation provided will be valid, if approved within Fifteen (<DATE_TIME> of <IN_PAN> and the move occurs within Thirty (30) days.
+* Written confirmation of this quotation is required along with the payment of Gross Freight and GST(if <IN_PAN>) prior to the commencement of packing,  
+   <IN_PAN> of balance payment will be prior to the dispatch of consignment from origin.
+* Transit Time: (Excluding pickup & delivery day) Odd location depends on case to case basis.
+
+Type of Consignment
+
+Direct / FTL
+
+Cubes (Metro to Metro)
+
+Shared Consignment
+
+Car (Metro to Metro)
+
+Kms Run / Per <DATE_TIME>
+
+Upto 300 Kms
+
+Upto 250 Kms + 02 Days Upto 150 Kms + <DATE_TIME>
+
+Upto 200 Kms
+
+* We will charge for the actual volume involved and therefore, if the volume is more than our estimates, we will increase our charges proportionately.
+* If packing is being done by the client it must be in road worthy condition and each item should be valued properly in the Inventory List.
+* Cloth Sheet, LED/LCD Box, Perfect Box and other material is the property of Agarwal Packers and Movers Limited (APML). It should be 
+   returned back to APML after unloading on <DATE_TIME>. Any detention for whatever reasons will be an unauthorized act inviting 
+   appropriate actions.
+* The locking/Unlocking of machines/<IN_PAN> and any other <IN_PAN> gadget which requires the technical <IN_PAN> of manufacturer or their  
+   <IN_PAN> dealer, to make them suitable for safe transport must be arranged by Client/the transporter <DATE_TIME> before the packing starts. 
+
+   The Client is most essential as these <IN_PAN> are covered either by warranty or service contract.
+* All <IN_PAN> items/computers are packed on an as is where is basis. As such company does not accept any liability <IN_PAN> for any defect / 
+  malfunctioning if any, at the destination.
+* Client must arrange for the disconnection of all <IN_PAN> and <IN_PAN> prior to the commencement of packing.
+* In case of Car/Bike Transportation, Registration book, Tax book, PUC certificate and valid comprehensive insurance policy will be required en route and  
+  must be handed over prior dispatch.
+* In case of Car movement, 16 ltrs. Petrol/Diesel must be available in the car (in case of excess fuel, it will be drained out for safety purpose). This fuel is  
+   required to run vehicle up to the ramp point and in the same way from ramp to client door. The distance may <PERSON> to 70 + 70 = 140 Kms. For location's 
+   where car carrier cannot travel, vehicle will be road driven by a skilled driver, the distance in such a case may come up to 250 to 300 Kms.
+* In case of Motor Bike movement, there should be no fuel in the vehicle. If there will be any fuel then the same will be drained out at the time of loading.
+* M/s Agarwal Packers and Movers Limited (APML) will not be held responsible for any delay in delivery due to factors beyond its control like natural 
+   <IN_PAN>, strike, accidents etc.
+* While we will arrange for the movement of potted plants it will subject to the availability of space in the truck, please note that carriage of potted plants  
+   will be done solely at Owners risk.
+
+TRANSIT RISK COVERAGE
+
+Despite best efforts, damages may happen to the consignment due to the geographical terrain of the country. So we always try to elaborate our clients on the 
+risk coverage booking of APML and recommend them to pay risk coverage cheque for their consignment.
+
+* Transit Risk Coverage is arranged for HHG @ 3.00% and for Car @ 1.50% of the total declared value.
+* Client must record proper value in the Inventory Sheet. The Inventory sheet will be treated as a final document in claim <IN_PAN>, if any. 
+* In case of minor and <IN_PAN> damages, the client need to initially give a claim letter and quotes for repair estimates from an <IN_PAN> vendor to 
+   process the risk coverage claim.
+* Any claim should be intimated and lodged within <DATE_TIME> of delivery of the goods. In case of Car/Bike, claim should be intimated and lodged within 12 
+  hours.
+* In case, risk coverage is not opted for, then a declaration form needs to be signed by you. In such a case all items of the consignment including Car/Bike 
+  will be transported at owner's risk for which no claim will be entertained at a later.
+* The carrier or it's agent shall be exempted from any loss or damage through accident/pilferage, fire/rain/collision/any other road or river hazard, we  
+  therefore recommend that goods should be covered under carrier risk by paying <IN_PAN> charges as FOV. No <IN_PAN> policy/receipt from insurance  
+  co. will be given. APML will only issue GCN under Carrier Risk, (Section 11, Carriage by Road Act, <DATE_TIME>).
+* In case of Car/Bike or other articles only exterior damages will be entertained, no claim will be paid for any internal or <IN_PAN> fault.
+* Goods <IN_PAN> Note, being the statutory document, contained terms and <IN_PAN>, in detail for transportation of HHG.
+
+QUOTATION <IN_PAN>
+
+Below services are excluded from the Quotation but if requested will be charged <IN_PAN>.
+* Any professional third party services such as electrician/plumber/carpenter, multiple pick-ups/ <IN_PAN>, storage related costs in transit, vehicle/labour
+  detention and overtime beyond <DATE_TIME>, working on <DATE_TIME>, Public holidays, staggered origin/destination services, handling of items 
+  which cannot be handled through a normal door/staircase/elevator, society/landlord <IN_PAN> and fees, if <IN_PAN>, any force majeure situation.
+* Shuttle service due to access/parking restrictions, delivery to high rise buildings and use of extra manpower for walking stairs, hoist,handling of heavy 
+  objects like pianos, safes etc.
+* Mandatory Labour Union charges which are <IN_PAN> at <LOCATION> or any other location will be billed as actual or can be paid to the Labour Union directly.
+* Any fees /permissions required to extend APML services at client's location like society tax, society <IN_PAN>, Society parking fees etc. will be borne 
+  by client.
+
+<IN_PAN> ITEMS
+
+* We do not accept to move <IN_PAN> goods, jewellery, Arms & Ammunitions, Hazardous material like Crackers, <IN_PAN>,Chemicals, Filled Gas Cylinder, 
+Battery Acids, and Inflammable Oils; such as Diesel, Petrol, Kerosene, Gasoline, Narcotics & Counter brand Items.
+
+TO BE DONE BY CLIENT BEFORE PACKING
+
+* Client must keep / secure, all important documents / Cash / Jewellery / Costly gadjets etc in his/her custody.
+* Client must keep all their oil <IN_PAN> in sealed condition to avoid spoilage due to oil leakage. (Only edible oil and other items that are non inflammatory in 
+nature will be 
+  <IN_PAN> for transportation.)
+* Refrigerator must be defrosted <DATE_TIME> prior to the packing to avoid water seepage.
+* All Batteries must be drained of their acids and should be empty before loading.
+* Gas Cylinders must be kept empty before packing date.
+* All items that require dismantling and <IN_PAN> should be done before the packing date by client, if these services are not taken from APML.
+
+DOCUMENT CHECKLIST
+
+* 2 passport size photographs in case of Household goods movement & 4 
+in case of Car + Household goods movement.
+* GST Details and Work Order (In case of Corporate Movement, where 
+  payment is to be made by the company directly to APML)
+Note: The Quotation, sent by mail shall be deemed having received by the 
+customer if signed copy is not received back.
+
+* Vehicle documents are required in case of Car or Bike movement 
+(Registration Book, 
+   Tax Book, PUC Certificate, Insurance copy.)
+* Declaration Letter (Format is shared over mail)
+* ID Proof: Passport, Aadhar Card, Voter ID.
+* PAN Card Details
+
+Cost of ancillary services (in relation to trasnportation by Road) included:
+
+Loading
+
+Packing
+
+Unloading
+
+Unpacking
+
+Freight on Value
+
+Removing
+
+Electrician
+
+<PERSON>
+
+Generated by.: <IN_VEHICLE_REGISTRATION>
+Phone No: [REDACTED] 
+
+Download Date: 28 Jan 2024 <DATE_TIME> PM
+
+. 

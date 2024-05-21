@@ -1,0 +1,30 @@
+Date: Sun <DATE_TIME> 2024
+
+Dear [REDACTED]:
+
+Patient Name: [REDACTED]
+Patient ID: [REDACTED]
+Patient DOB: [REDACTED]
+Patient Address: [REDACTED]
+Admitting Diagnosis Code: Pneumonia
+Procedure Code: [REDACTED]
+Attending Physician: Dr. [REDACTED]
+Hospital Course: Antibiotics and rest
+Discharge Diagnosis Code: Recovered from pneumonia
+Discharge Instructions: Take prescribed medications and follow-up with primary care physician
+Discharge Disposition: Discharged to home
+Discharge Condition: Stable
+Additional Information: Patient has a history of asthma
+Total Charge: $[REDACTED]
+Insurance Claim Amount: $[REDACTED]
+
+We would like to thank you [REDACTED] for taking our service for Pneumonia treatment! You will
+receive a billing details along with Take prescribed medications and follow-up with primary care
+physician. The Total Charge of the treatment is [REDACTED]. Please respond by following up with Dr.
+[REDACTED].
+
+Thank you very much and we look forward to serving you.
+
+Sincerely,
+
+[REDACTED] 

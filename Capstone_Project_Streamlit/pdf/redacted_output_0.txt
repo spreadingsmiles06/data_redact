@@ -1,0 +1,27 @@
+Date: Sun <DATE_TIME>Dear [REDACTED]:
+
+Patient Name: [REDACTED]
+Patient ID: [REDACTED]
+Patient DOB: [REDACTED]
+Patient Address: [REDACTED] 
+Admitting Diagnosis Code: Acute Bronchitis
+Procedure Code: [REDACTED]
+Attending Physician: Dr. [REDACTED]
+Hospital Course: Patient showed improvement with antibiotics
+Discharge Diagnosis Code: Resolved Bronchitis infection
+Discharge Instructions: Complete the prescribed antibiotics course
+Discharge Disposition: Discharged to home
+Discharge Condition: Stable
+Additional Information: Patient has a history of allergies to penicillin
+Total Charge: [REDACTED]
+Insurance Claim Amount: [REDACTED]
+
+We would like to thank you [REDACTED] for taking our service for Acute Bronchitis treatment! You will
+receive a billing details along with Complete the prescribed antibiotics course. The Total Charge of the
+treatement is [REDACTED]. Please respond by following up with Dr. [REDACTED].
+
+Thank you very much and we look forward to serving you.
+
+Sincerely,
+
+[REDACTED] 
