@@ -88,7 +88,7 @@ def download_file(file_path):
     st.download_button(label="Download", data=contents, file_name=os.path.basename(file_path))
 
 # Set the directory path for PDF files
-directory_path = Capstone_Project_Streamlit/pdf"
+directory_path = "Capstone_Project_Streamlit/pdf"
 
 def save_uploaded_files(uploaded_files, directory_path):
     # for uploaded_file in uploaded_files:
