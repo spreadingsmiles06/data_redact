@@ -18,7 +18,6 @@ import streamlit as st
 import zipfile
 
 
-setAPIKey(openGPT_key)
 def generate_pdf_for_row(row_data, pdf_file):
     # Create PDF
     doc = SimpleDocTemplate(pdf_file, pagesize=letter, rightMargin=72, leftMargin=72, topMargin=72, bottomMargin=18)
@@ -335,8 +334,8 @@ def main():
 		# Display the DataFrame
 		print(synthetic_df.head)
 
-		pdf_output_folder = "/home/ubuntu/ISB_Project/pdf"
-		zip_file_path = "/home/ubuntu/ISB_Project/output.zip"
+		pdf_output_folder = "Capstone_Project_Streamlit/pdf"
+		zip_file_path = "Capstone_Project_Streamlit/pdf/output.zip"
 
 		# Generate PDFs and collect their paths
 		pdf_paths = []
