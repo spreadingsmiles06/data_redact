@@ -10,10 +10,6 @@ from pdfminer.high_level import extract_text
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 import streamlit as st
-# genai.configure(api_key="AIzaSyDONU1LmKi9fVNEG9tsopZvRB0EcdKcfs8")
-
-   # Get OpenAI API key from user
-#os.environ['GOOGLE_API_KEY'] = 'AIzaSyCNgcmnCCA81fPQWX_WL7Z786w-fOiankE'
 
 gemini_api_key = st.text_input("Enter your Gemini API key:", type="password")
 import os
