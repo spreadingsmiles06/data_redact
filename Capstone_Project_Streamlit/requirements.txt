@@ -14,5 +14,4 @@ python-dotenv
 reportlab
 streamlit
 tiktoken
-pdfminer.six
 tabula
