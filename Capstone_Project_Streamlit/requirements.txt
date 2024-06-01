@@ -4,7 +4,7 @@ langchain_experimental
 langchain_google_genai
 openai
 pandas
-pdfminer.six
+pdfminer
 pdfplumber
 pikepdf
 presidio_analyzer
@@ -14,4 +14,5 @@ python-dotenv
 reportlab
 streamlit
 tiktoken
+pdfminer.six
 tabula
