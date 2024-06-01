@@ -4,7 +4,7 @@ langchain_experimental
 langchain_google_genai
 openai
 pandas
-libtk8.6
+libtk
 pdfminer
 pdfplumber
 pikepdf
